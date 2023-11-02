@@ -1,2 +1,2 @@
 WebCalculator using HTML,CSS and JS.
-![calci](https://github.com/daemon966/WebCalculator/assets/121796405/c787c3ca-463b-4683-b019-cc65cdf80609)
+![Screenshot (100)](https://github.com/daemon966/WebCalculator/assets/121796405/002b793b-3e45-47ea-b5ad-cfbc4e38f9de)
